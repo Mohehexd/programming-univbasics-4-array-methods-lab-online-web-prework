@@ -4,7 +4,8 @@ end
 
 def using_sort(array, element, string)
   arr = ["hi","hello","bye"]
-  arr.sort
+  using_first("hello")
+  using_last("hi")
 end
 
 def using_reverse(array)
