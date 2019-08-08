@@ -3,9 +3,9 @@ array.include?(element)
 end
 
 def using_sort(array, element, string)
-  arr = ["hi","hello","bye"]
-  using_first("hello")
-  using_last("hi")
+  using_sort = ["hi","hello","bye"]
+  using_sort.first("hello")
+  using_sort.last("hi")
 end
 
 def using_reverse(array)
